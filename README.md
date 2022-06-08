@@ -1,6 +1,12 @@
 # LSM1x0A_SDK_LoRaWAN104
 
+## Support Site
 
+- This site is only used for SDK updates.
+- If you visit the SJI support site indicated in the link below and make an inquiry, the person in charge will provide support quickly.
+  + http://support.seongji.co.kr/
+
+</br>
 
 
 ## Introduction
@@ -116,9 +122,3 @@ Refer [**[SEONGJI]_LSM1x0A_FW_Download_Guide.pdf**](https://github.com/SeongJiIo
   + Downloads for Windows, Macintosh, Linux and Android below.
 	* Download link: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
-
-<br/>
-
-## Support Site
-- For more information on modules and quick response, please refer to the support site below.
-  + http://support.seongji.co.kr/
